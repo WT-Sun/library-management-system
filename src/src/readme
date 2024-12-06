@@ -1,0 +1,40 @@
+Library Management System
+
+Overview:
+The Library Management System is a simple console-based application designed to manage a library's user accounts,
+books, and borrowing/returning operations. It provides functionalities such as user registration, login/logout,
+book search, and managing user data.
+
+Features:
+1. User Management:
+   - Create a new account.
+   - Log in with an existing account.
+   - View and edit user information.
+
+2. Book Management:
+   - Add books to the library.
+   - Search for books by title or author.
+   - Borrow and return books.
+
+3. Overdue Book Alerts:
+   - Users receive alerts for overdue books upon logging in.
+
+4. Data Persistence:
+   - User and book data is stored in-memory using appropriate data structures.
+
+Usage:
+1. Account Creation / Login:
+   - Choose option 1 to create a new account or option 2 to log in.
+   - Enter the required information.
+
+2. User Dashboard:
+   - After login, the user can view and edit their information.
+   - Users receive alerts for overdue books.
+
+3. Book Operations:
+   - Search for books by title or isbn.
+   - Choose to borrow or return a book when searching.
+
+4. Log Out:
+   - Choose option 3 to log out.
+
